@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589297525045.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2937195067",
+    "id" : "DE789655",
+    "lastKnownWriteTime" : 1587080210,
+    "last_content_update" : 1587080210,
+    "path" : "~/MA 810/TVAAS_Code/TVAASModel2.R",
+    "project_path" : "TVAASModel2.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
